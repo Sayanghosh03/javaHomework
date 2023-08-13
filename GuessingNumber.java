@@ -1,4 +1,9 @@
-// write a guessing number game in java where user have 3 attempts to guess a number from 1 to 100 upon guessing correctly user will receive a message "you have guessed correctly!" and on wrong guess "Wrong guess you have n chance left" where n will decrease upon every wrong guess. After all chances are gone system will print "you don't have any chances left ! play again" then user can either play again or quit the game everything will be well instructed adn prompted [you can use scanner class for input switch case for loop and other concepts].
+/*  write a guessing number game in java where user have 3 attempts to guess a number from 1 to 100
+ upon guessing correctly user will receive a message "you have guessed correctly!" and on wrong 
+ guess "Wrong guess you have n chance left" where n will decrease upon every wrong guess. After all
+  chances are gone system will print "you don't have any chances left ! play again" then user can
+   either play again or quit the game everything will be well instructed adn prompted [you can use 
+   scanner class for input switch case for loop and other concepts].*/
 
 import java.util.Random;
 import java.util.Scanner;
